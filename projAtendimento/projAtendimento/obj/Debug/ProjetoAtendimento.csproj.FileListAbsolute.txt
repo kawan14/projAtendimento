@@ -1,0 +1,40 @@
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe.config
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.pdb
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.exe
+C:\Users\Gil\Desktop\ED 2\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.pdb
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe.config
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.exe
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\bin\Debug\projAtendimento.pdb
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.exe
+D:\Área de trabalho\ProjetoAtendimento-Fila--master\ProjetoAtendimento(Fila)\projAtendimento\obj\Debug\projAtendimento.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\obj\Debug\projAtendimento.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\obj\Debug\projAtendimento.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe.config
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\projAtendimento\bin\Debug\projAtendimento.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe.config
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\bin\Debug\projAtendimento.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\bin\Debug\projAtendimento.pdb
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.csprojAssemblyReference.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\obj\Debug\projAtendimento.Properties.Resources.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.Views.Atendimento.resources
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.GenerateResource.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\obj\Debug\ProjetoAtendimento.csproj.CoreCompileInputs.cache
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\obj\Debug\projAtendimento.exe
+D:\Documentos\Kawan\faculdade\4 semestre\estrutura de dados 2\projAtendimento\projAtendimento\obj\Debug\projAtendimento.pdb
